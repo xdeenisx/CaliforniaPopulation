@@ -1,6 +1,8 @@
-# CaliforniaPopulation
+# NewJerseyPopulation
 
-This is a visualization of a population density map for California.
+This is a visualization of a population density map for New Jersey.
 
-Created for CMPS 165.
-
+Adam Fischer
+Instructor: Suresh Lodha
+CMPS 165: Data Programming for Visualization
+Fall 2016
